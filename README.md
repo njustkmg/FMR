@@ -1,3 +1,5 @@
+Yang Yang, De-Chuan Zhan, Yin Fan, Yuan Jiang, and Zhi-Hua Zhou. Deep Learning for Fixed Model Reuse. Proceedings of the 31st AAAI Conference on Artificial Intelligence (AAAI-2017), San Francisco, CA. 2017.
+
 ## FMR模型
 
 基本实现与论文中一致，实验上略有不同。
